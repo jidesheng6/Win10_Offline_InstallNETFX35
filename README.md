@@ -6,3 +6,5 @@
 - C#开发，怀疑有问题可以使用DNSPY查看源码，未加壳
 - WINFORM程序出现控件位置异常属于正常情况
 - 本软件用于无网环境部署NETFX35
+
+简书地址：https://www.jianshu.com/p/ac48b136ca23
